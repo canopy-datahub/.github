@@ -31,14 +31,6 @@ Canopy runs on **AWS** as a microservices platform:
 
 ## 📦 Repository Map
 
-### Infrastructure & Deployment
-| Repository | Description |
-|---|---|
-| [datahub-cloud-replication](https://github.com/canopy-datahub/datahub-cloud-replication) | AWS CloudFormation templates
-| [datahub-development](https://github.com/canopy-datahub/datahub-development) | PostgreSQL schema scripts, seed data, OpenSearch Lambda, Keycloak Docker Compose |
-| [datahub-docs](https://github.com/canopy-datahub/datahub-docs) | Deployment guide, limitations, and operator documentation |
-| [datahub-deployment-scripts](https://github.com/canopy-datahub/datahub-deployment-scripts) | Automation scripts supporting deployment and operations |
-
 ### Backend Services (Spring Boot)
 | Repository | Description |
 |---|---|
@@ -57,17 +49,16 @@ Canopy runs on **AWS** as a microservices platform:
 |---|---|
 | [datahub-ui-main](https://github.com/canopy-datahub/datahub-ui-main) | Next.js / React web application |
 
+### Infrastructure & Deployment
+| Repository | Description |
+|---|---|
+| [datahub-cloud-replication](https://github.com/canopy-datahub/datahub-cloud-replication) | AWS CloudFormation templates
+| [datahub-development](https://github.com/canopy-datahub/datahub-development) | PostgreSQL schema scripts, seed data, OpenSearch Lambda, Keycloak Docker Compose |
+| [datahub-docs](https://github.com/canopy-datahub/datahub-docs) | Deployment guide, limitations, and operator documentation |
+| [datahub-deployment-scripts](https://github.com/canopy-datahub/datahub-deployment-scripts) | Automation scripts supporting deployment and operations |
+
 ### Developer Tooling
 | Repository | Description |
 |---|---|
 | [datahub-cli](https://github.com/canopy-datahub/datahub-cli) | CLI for local development and server management |
 | [datahub-utility-scripts](https://github.com/canopy-datahub/datahub-utility-scripts) | Automation helpers and publication utilities |
-
----
-
-## 📚 Documentation
-
-- [Deployment Guide](https://github.com/canopy-datahub/datahub-docs/blob/main/DEPLOYMENT_GUIDE.md) — end-to-end AWS setup walkthrough
-- [Platform Limitations](https://github.com/canopy-datahub/datahub-docs/blob/main/LIMITATIONS.md) — constraints, configuration boundaries, and known considerations
-- [RDS Setup Guide](https://github.com/canopy-datahub/datahub-development/blob/main/db/postgres/db-create-scripts/README_RDS_DEPLOYMENT.md)
-- [OpenSearch Reindex Lambda](https://github.com/canopy-datahub/datahub-development/blob/main/opensearch/opensearch_reindex/README_OPENSEARCH_REINDEX_LAMBDA_DEPLOYMENT.md)
