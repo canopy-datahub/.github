@@ -1,6 +1,6 @@
 # Canopy
 
-**Canopy** is an open-source platform for building FAIR-aligned scientific data hubs that support study discovery, data sharing, and metadata validation. It is derived from the NIH RADx Data Hub, a cloud-based platform originally developed for the NIH Rapid Acceleration of Diagnostics (RADx) program during the COVID-19 pandemic. RADx Data Hub is available at https://radxdatahub.nih.gov/. Canopy redesigns the core components of the RADx Data Hub by removing domain-specific assumptions while retaining essential functionality.
+**Canopy** is an open-source platform for building FAIR-aligned scientific data hubs that support study discovery, data sharing, and metadata validation. It is derived from the NIH RADx Data Hub, a cloud-based platform originally developed for the NIH Rapid Acceleration of Diagnostics (RADx) program during the COVID-19 pandemic. RADx Data Hub is available at https://radxdatahub.nih.gov/ and [on GitHub](https://github.com/radxdatahub). Canopy redesigns the core components of the RADx Data Hub by removing domain-specific assumptions while retaining essential functionality.
 
 ---
 
