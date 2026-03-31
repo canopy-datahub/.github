@@ -10,7 +10,7 @@
 Start here → 📘 [Deployment Guide](https://github.com/canopy-datahub/datahub-docs/blob/feature/aws/DEPLOYMENT_GUIDE.md)
 
 **Exploring the codebase?**  
-Start here → 🗂️ [Main Repository](https://github.com/canopy-datahub/dataHub) — links to every service, tool, and guide
+Start here → 🗂️ [Repositories](https://github.com/orgs/canopy-datahub/repositories) — links to every service, tool, and guide
 
 ---
 
