@@ -13,6 +13,9 @@ Start here → [Deployment Guide](https://github.com/canopy-datahub/datahub-docs
 **Exploring the codebase?**  
 Start here → [Repositories](https://github.com/orgs/canopy-datahub/repositories) — links to every service, tool, and guide
 
+**Want to contribute?**  
+Start here → [Contributing Guide](https://github.com/canopy-datahub/.github/blob/main/CONTRIBUTING.md)
+
 ---
 
 ## Architecture
