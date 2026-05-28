@@ -10,7 +10,7 @@
 ## Getting Started
 
 **Deploying Canopy to AWS**  
-Start here → [Deployment Guide](https://github.com/canopy-datahub/canopy-docs/blob/feature/aws/DEPLOYMENT_GUIDE.md)
+Start here → [Deployment Guide](https://github.com/canopy-datahub/canopy-docs/blob/main/DEPLOYMENT_GUIDE.md)
 
 **Exploring the codebase?**  
 Start here → [Repositories](https://github.com/orgs/canopy-datahub/repositories) — links to every service, tool, and guide
