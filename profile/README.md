@@ -10,7 +10,7 @@
 ## Getting Started
 
 **Deploying Canopy to AWS**  
-Start here → [Deployment Guide](https://github.com/canopy-datahub/datahub-docs/blob/feature/aws/DEPLOYMENT_GUIDE.md)
+Start here → [Deployment Guide](https://github.com/canopy-datahub/canopy-docs/blob/feature/aws/DEPLOYMENT_GUIDE.md)
 
 **Exploring the codebase?**  
 Start here → [Repositories](https://github.com/orgs/canopy-datahub/repositories) — links to every service, tool, and guide
@@ -40,31 +40,28 @@ Canopy runs on **AWS** as a microservices platform:
 ### Backend Services (Spring Boot)
 | Repository | Description |
 |---|---|
-| [datahub-service-entity](https://github.com/canopy-datahub/datahub-service-entity) | Direct retrieval of database entities |
-| [datahub-service-search](https://github.com/canopy-datahub/datahub-service-search) | Search across studies and variables |
-| [datahub-service-user](https://github.com/canopy-datahub/datahub-service-user) | User info, profiles, and support requests |
-| [datahub-service-submission](https://github.com/canopy-datahub/datahub-service-submission) | Data and study ingestion workflows |
-| [datahub-service-report](https://github.com/canopy-datahub/datahub-service-report) | Metrics dashboard and reporting |
-| [datahub-service-download](https://github.com/canopy-datahub/datahub-service-download) | Controlled dataset file downloads |
-| [datahub-service-email](https://github.com/canopy-datahub/datahub-service-email) | Lambda-based email notifications via AWS SES |
-| [datahub-lib-keycloak-auth](https://github.com/canopy-datahub/datahub-lib-keycloak-auth) | Shared Keycloak authentication library |
-| [datahub-project](https://github.com/canopy-datahub/datahub-project) | Maven parent POM for all Java services |
+| [canopy-service-entity](https://github.com/canopy-datahub/canopy-service-entity) | Direct retrieval of database entities |
+| [canopy-service-search](https://github.com/canopy-datahub/canopy-service-search) | Search across studies and variables |
+| [canopy-service-user](https://github.com/canopy-datahub/canopy-service-user) | User info, profiles, and support requests |
+| [canopy-service-submission](https://github.com/canopy-datahub/canopy-service-submission) | Data and study ingestion workflows |
+| [canopy-service-report](https://github.com/canopy-datahub/canopy-service-report) | Metrics dashboard and reporting |
+| [canopy-service-download](https://github.com/canopy-datahub/canopy-service-download) | Controlled dataset file downloads |
+| [canopy-service-email](https://github.com/canopy-datahub/canopy-service-email) | Lambda-based email notifications via AWS SES |
+| [canopy-project](https://github.com/canopy-datahub/canopy-project) | Maven parent POM for all Java services |
 
 ### Frontend
 | Repository | Description |
 |---|---|
-| [datahub-ui-main](https://github.com/canopy-datahub/datahub-ui-main) | Next.js / React web application |
+| [canopy-ui-main](https://github.com/canopy-datahub/canopy-ui-main) | Next.js / React web application |
 
 ### Infrastructure & Deployment
 | Repository | Description |
 |---|---|
-| [datahub-cloud-replication](https://github.com/canopy-datahub/datahub-cloud-replication) | AWS CloudFormation templates
-| [datahub-development](https://github.com/canopy-datahub/datahub-development) | PostgreSQL schema scripts, seed data, OpenSearch Lambda, Keycloak Docker Compose |
-| [datahub-docs](https://github.com/canopy-datahub/datahub-docs) | Deployment guide, limitations, and operator documentation |
-| [datahub-deployment-scripts](https://github.com/canopy-datahub/datahub-deployment-scripts) | Automation scripts supporting deployment and operations |
+| [canopy-cloud-replication](https://github.com/canopy-datahub/canopy-cloud-replication) | AWS CloudFormation templates
+| [canopy-development](https://github.com/canopy-datahub/canopy-development) | PostgreSQL schema scripts, seed data, OpenSearch Lambda, Keycloak Docker Compose |
+| [canopy-docs](https://github.com/canopy-datahub/canopy-docs) | Deployment guide, limitations, and operator documentation |
 
 ### Developer Tooling
 | Repository | Description |
 |---|---|
-| [datahub-cli](https://github.com/canopy-datahub/datahub-cli) | CLI for local development and server management |
-| [datahub-utility-scripts](https://github.com/canopy-datahub/datahub-utility-scripts) | Automation helpers and publication utilities |
+| [canopy-cli](https://github.com/canopy-datahub/canopy-cli) | CLI for local development and server management |
